@@ -1,0 +1,186 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../libraries/glfw/include/GLFW/glfw3.h
+stddef.h
+-
+stdint.h
+-
+vulkan/vulkan.h
+-
+GLES/gl.h
+-
+GLES/glext.h
+-
+GLES2/gl2.h
+-
+GLES2/gl2ext.h
+-
+GLES3/gl3.h
+-
+GLES2/gl2ext.h
+-
+GLES3/gl31.h
+-
+GLES2/gl2ext.h
+-
+GLES3/gl32.h
+-
+GLES2/gl2ext.h
+-
+OpenGL/gl3.h
+-
+OpenGL/gl3ext.h
+-
+GL/glcorearb.h
+-
+OpenGL/glu.h
+-
+GL/glu.h
+-
+OpenGL/gl.h
+-
+GL/gl.h
+-
+GL/glext.h
+-
+
+/home/aryan/Computer Graphics/Assgn1/source/ball.cpp
+ball.h
+/home/aryan/Computer Graphics/Assgn1/source/ball.h
+main.h
+/home/aryan/Computer Graphics/Assgn1/source/main.h
+
+/home/aryan/Computer Graphics/Assgn1/source/ball.h
+main.h
+/home/aryan/Computer Graphics/Assgn1/source/main.h
+
+/home/aryan/Computer Graphics/Assgn1/source/color.cpp
+main.h
+/home/aryan/Computer Graphics/Assgn1/source/main.h
+
+/home/aryan/Computer Graphics/Assgn1/source/gltext.h
+stdlib.h
+-
+string.h
+-
+stdint.h
+-
+assert.h
+-
+stdio.h
+-
+
+/home/aryan/Computer Graphics/Assgn1/source/input.cpp
+iostream
+-
+cmath
+-
+fstream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+main.h
+/home/aryan/Computer Graphics/Assgn1/source/main.h
+
+/home/aryan/Computer Graphics/Assgn1/source/main.cpp
+main.h
+/home/aryan/Computer Graphics/Assgn1/source/main.h
+timer.h
+/home/aryan/Computer Graphics/Assgn1/source/timer.h
+ball.h
+/home/aryan/Computer Graphics/Assgn1/source/ball.h
+math.h
+-
+unistd.h
+-
+gltext.h
+/home/aryan/Computer Graphics/Assgn1/source/gltext.h
+
+/home/aryan/Computer Graphics/Assgn1/source/main.h
+iostream
+-
+cmath
+-
+fstream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+
+/home/aryan/Computer Graphics/Assgn1/source/nonedit.cpp
+iostream
+-
+cmath
+-
+fstream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+main.h
+/home/aryan/Computer Graphics/Assgn1/source/main.h
+
+/home/aryan/Computer Graphics/Assgn1/source/other_handlers.cpp
+iostream
+-
+cmath
+-
+fstream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+main.h
+/home/aryan/Computer Graphics/Assgn1/source/main.h
+
+/home/aryan/Computer Graphics/Assgn1/source/timer.cpp
+timer.h
+/home/aryan/Computer Graphics/Assgn1/source/timer.h
+GLFW/glfw3.h
+-
+
+/home/aryan/Computer Graphics/Assgn1/source/timer.h
+
